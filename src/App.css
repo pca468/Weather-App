@@ -1,0 +1,22 @@
+body{
+  background: url(https://media.istockphoto.com/id/1200224188/ko/%EC%82%AC%EC%A7%84/%ED%91%B8%EB%A5%B8-%ED%95%98%EB%8A%98%EC%97%90-%ED%95%98%EC%96%80-%EA%B5%AC%EB%A6%84%EA%B3%BC-%ED%83%9C%EC%96%91.webp?b=1&s=170667a&w=0&k=20&c=_up6w3htwbkMFvz9kWfT9RBbSo5tlLNzcPsavUGnh1Y=);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.weather-box {
+  border: 3px solid white;
+  padding: 50px;
+  border-radius: 30px;
+  background-color: azure;
+
+}
